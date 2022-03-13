@@ -1,11 +1,12 @@
 import React from 'react'
 import Hero from './components/Hero';
-import Images from './components/Images';
+import About from './components/About';
 function App() {
   return (
     <div>
       <Hero></Hero>
-    <Images></Images>
+
+    <About></About>
     </div>
   );
 }
